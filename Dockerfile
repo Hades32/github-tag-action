@@ -1,1 +1,1 @@
-FROM Hades32/github-tag-action
+FROM hades32/github-tag-action
